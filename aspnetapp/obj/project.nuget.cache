@@ -1,0 +1,10 @@
+{
+  "version": 2,
+  "dgSpecHash": "+LGLd1PejfM=",
+  "success": true,
+  "projectFilePath": "D:\\Dev\\Tests\\Docker\\dotnet-docker\\samples\\aspnetapp\\aspnetapp\\aspnetapp.csproj",
+  "expectedPackageFiles": [
+    "C:\\Users\\pieter\\.nuget\\packages\\microsoft.visualstudio.azure.containers.tools.targets\\1.21.0\\microsoft.visualstudio.azure.containers.tools.targets.1.21.0.nupkg.sha512"
+  ],
+  "logs": []
+}
